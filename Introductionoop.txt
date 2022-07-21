@@ -1,0 +1,6 @@
+it is a programming style which is associated with the concepts of 
+1.class&object 
+2.inheritance 
+3.encapsulation 
+4.abstraction 
+5.polymorphism
