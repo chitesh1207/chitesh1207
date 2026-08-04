@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Driver Drowsiness Detection Through Face Mesh Using Machine Learning**
+- 🔭 I’m currently working on **Artifical Intelligence and Machine Learning**
 
 - 📫 How to reach me **chiteshkumar0007@gmail.com**
 
