@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Driver Drowsiness Detection Through Face Mesh Using Machine Learning**
 
-- 📫 How to reach me **chitesh1207@sasi.ac.in**
+- 📫 How to reach me **chiteshkumar0007@gmail.com**
 
 <h3 align="center">Let's connect:</h3>
 <p align="center">
